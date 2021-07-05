@@ -1,0 +1,12 @@
+D:\Semester1\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\bin\Debug\TES_XT5_01_34.exe.config
+D:\Semester1\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\bin\Debug\TES_XT5_01_34.exe
+D:\Semester1\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\bin\Debug\TES_XT5_01_34.pdb
+D:\Semester1\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\obj\Debug\TES_XT5_01_34.csproj.CoreCompileInputs.cache
+D:\Semester1\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\obj\Debug\TES_XT5_01_34.exe
+D:\Semester1\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\obj\Debug\TES_XT5_01_34.pdb
+D:\smk\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\bin\Debug\TES_XT5_01_34.exe.config
+D:\smk\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\bin\Debug\TES_XT5_01_34.exe
+D:\smk\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\bin\Debug\TES_XT5_01_34.pdb
+D:\smk\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\obj\Debug\TES_XT5_01_34.csproj.CoreCompileInputs.cache
+D:\smk\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\obj\Debug\TES_XT5_01_34.exe
+D:\smk\Tugas-tugas\Pak Teguh\TES_XT5_01_34\TES_XT5_01_34\obj\Debug\TES_XT5_01_34.pdb
